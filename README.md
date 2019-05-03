@@ -2,4 +2,4 @@
 
 Test new framework when simple background-color changer with text and decimal values.
 
-https://larsnihlmark.github.io/Vue-Color-Changer/
+Try out Demo  [here](https://larsnihlmark.github.io/VueColorChanger/)
